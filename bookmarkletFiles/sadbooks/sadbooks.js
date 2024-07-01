@@ -4,7 +4,7 @@
     for (var prop in obj) elem.style[prop]=obj[prop];
   }
   var frame=document.createElement("iframe");
-  frame.src="https://cdn.jsdelivr.net/gh/The-Wellerman-Group/v3@master/bookmarkletFiles/sadbooks/sadbooks.html";
+  frame.src="https://cdn.jsdelivr.net/gh/The-Wellerman-Group/v3@latest/bookmarkletFiles/sadbooks/sadbooks.html";
   applyStyles(frame,{
     zIndex:2147483647,
     border:"none",
